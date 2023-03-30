@@ -1,12 +1,10 @@
 package br.com.stapassoli.consumirviacepapi.model;
 
 
-import br.com.stapassoli.consumirviacepapi.RegioesBrasil;
+import br.com.stapassoli.consumirviacepapi.enums.RegioesBrasil;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-
-import java.math.BigDecimal;
 
 @AllArgsConstructor
 @NoArgsConstructor

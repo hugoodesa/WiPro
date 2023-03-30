@@ -1,4 +1,4 @@
-package br.com.stapassoli.consumirviacepapi;
+package br.com.stapassoli.consumirviacepapi.enums;
 
 public enum RegioesBrasil {
 
